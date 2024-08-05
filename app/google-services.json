@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708756943945",
+    "project_id": "sleep-paralysis-monitor",
+    "storage_bucket": "sleep-paralysis-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708756943945:android:78876a9e3893aa8f09fb98",
+        "android_client_info": {
+          "package_name": "com.sleep_paralysis_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd2Z4EFuMOerUmlqG1c26xNKq6V_4OqHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
